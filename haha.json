@@ -1,0 +1,77 @@
+{
+
+  "contact": "rktfier",
+
+  "templates": [
+
+    {
+
+      "name": "Elrarn logo",
+
+      "sources": [
+
+        "https://raw.githubusercontent.com/HarunYhy/.../main/peakpx.jpg"
+
+      ],
+
+      "x": 632,
+
+      "y": 791
+
+    },
+
+    {
+
+      "name": "siyah dranza",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1132037822673604710/1132077417675104278/siyah_dranza_16color.png"
+
+      ],
+
+      "x": 226,
+
+      "y": 862
+
+    },
+
+    {
+
+      "name": "Çay",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1132306034313146418/1132326184752005130/TurkishTea.png"
+
+      ],
+
+      "x": 1774,
+
+      "y": 307
+
+    },
+
+    {
+
+      "name": "Jahrein Doggo",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1132306034313146418/1132404168007618870/alfreddddd.png"
+
+      ],
+
+      "x": 634,
+
+      "y": 961
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
