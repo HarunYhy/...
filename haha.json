@@ -1,12 +1,12 @@
 {
 
-  "contact": "rktfier",
+  "contact": "HarunYhy63",
 
   "templates": [
 
     {
 
-      "name": "Türkish Flag",
+      "name": "Turkish flag",
 
       "sources": [
 
@@ -22,52 +22,355 @@
 
     {
 
-      "name": "siyah dranza",
+      "name": "",
 
       "sources": [
-
-        "https://cdn.discordapp.com/attachments/1132037822673604710/1132077417675104278/siyah_dranza_16color.png"
-
+        ""
       ],
 
-      "x": 226,
+      "x": ,
 
-      "y": 862
+      "y": 
 
     },
-
     {
 
-      "name": "Çay",
+      "name": "",
 
       "sources": [
-
-        "https://cdn.discordapp.com/attachments/1132306034313146418/1132326184752005130/TurkishTea.png"
-
+        ""
       ],
 
-      "x": 1774,
+      "x": ,
 
-      "y": 307
+      "y": 
 
     },
-
     {
 
-      "name": "Jahrein Doggo",
+      "name": "",
 
       "sources": [
-
-        "https://cdn.discordapp.com/attachments/1132306034313146418/1132404168007618870/alfreddddd.png"
-
+        ""
       ],
 
-      "x": 634,
+      "x": ,
 
-      "y": 961
+      "y": 
 
-    }
+    },
+    {
 
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
   ],
 
   "whitelist": [],
